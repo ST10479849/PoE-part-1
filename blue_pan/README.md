@@ -27,5 +27,14 @@ I am proposing the following features for the website an about us page, contact 
 20 October 2025 last part of the website should be complete this is the part adding interactivity. 
 
 ###### Part 1 Details
-
+Wedsite planning and seting up through sitemaps and wireframes. html language used for all pages. Inclusion of images, information about the business and the business logo lastly navigation between pages. Part 1 covers the intial foundation of the project.
 ###### Change log
+23 August homepage was complete, about us page was started.
+25 August about us page was complete,contact was page was complete.
+26 August all remaining pages were complete,Read me document started and code pushed onto github.
+
+###### Reference
+@BMS decor and catering,2025.South African caters.[Facebook].April 12.<https://share.google/images/TYGC2T7LidvmDI7De> [Accessed 12 April 2025]
+@Gumtee,2025.South African decor.[instagram].June 24.<https://www.google.co.za/imgres?q=decor%20events&imgurl=https%3A%2F%2Fgms.gumtree.co.za%2Fv2%2Fimages%2Fza_ads_132584803_250603_683ee530e0f2d2000a9ee3c2%3Fsize%3Dl&imgrefurl=https%3A%2F%2Fwww.gumtree.co.za%2Fa-furnishing-decoration-services%2Fsunninghill%2Fkids-and-adults-party-decor-and-hire-full-events-decor-indoor-or-outdoor-decor-set-up%2F10013255956281013258480309&docid=2XEqZEpkx9J_oM&tbnid=03Pf3WVAh23vgM&vet=12ahUKEwiSjezv26qPAxV1Q0EAHZcZBMY4ChAzegQINxAA..i&w=1024&h=768&hcb=2&ved=2ahUKEwiSjezv26qPAxV1Q0EAHZcZBMY4ChAzegQINxAA>
+
+
